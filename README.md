@@ -3,7 +3,12 @@
 ## 📚 | Basic information
   Hello, my name is Vojtěch and I'm junior Python Developer. 
   
-  I am interested in Python because it's (I think) the easiest way how to learn coding.
+  I am interested in Python because it's in my opinion the easiest way how to get into coding.
   
-  I have starting programming about 2 years ago, last year I learng how to code actively.
+  I have started programming about 2 years ago, last year my passion to coding grew even bigger.
+  
+## 💻 | Coding experience
+  
+  At the beginning of my programming career I started learning HTML/CSS, after Java (concretly SpigotAPI - Minecraft Developing) and to the present Python
+
 
