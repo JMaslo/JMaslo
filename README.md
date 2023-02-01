@@ -9,6 +9,6 @@
   
 ## 💻 | Coding experience
   
-  At the beginning of my programming career I started learning HTML/CSS
-
-
+  At the beginning of my programming career I started learning HTML/CSS.
+  
+  After 6 months I skipped to Java -> Minecraft Developer but I found that for the beginning it's not the best to start with so i figured that I will start with Python
