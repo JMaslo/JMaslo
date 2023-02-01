@@ -9,6 +9,6 @@
   
 ## 💻 | Coding experience
   
-  At the beginning of my programming career I started learning HTML/CSS, after Java (concretly SpigotAPI - Minecraft Developing) and to the present Python
+  At the beginning of my programming career I started learning HTML/CSS
 
 
