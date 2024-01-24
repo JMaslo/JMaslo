@@ -4,6 +4,8 @@
 
 ● I'm currently studying for Junior Java Developer
 
-● Interested in programming
+● Working on BattleShips project ;)
+
+● Interested in programming for almost 5 years
 
 ● At the moment studying at high school
