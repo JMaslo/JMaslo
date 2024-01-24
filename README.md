@@ -2,7 +2,7 @@
 
 ## 📚 | About me
 
-● I'm currently studying for Junior Java Developer
+● I use Java, Javascript, Typescript, HTML, TailwindCSS, JSON,...
 
 ● Working on BattleShips project ;)
 
