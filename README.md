@@ -1,11 +1,11 @@
-### Hi there 👋
+# Junior Java Developer | VojtaCZ
 
-## 📚 | About me
+💻 | **TOOLS:** Intellij IDEA Ultimate, Visual Studio Code, Maven, Gradle, Vite
 
-● I use Java, Javascript, Typescript, HTML, TailwindCSS, JSON,...
+🛠️ | **LANGUAGES:** Java, JavaScript, TypeScript
 
-● Working on BattleShips project ;)
+🔨 | **FRAMEWORKS:** SpringBoot and React
 
-● Interested in programming for almost 5 years
+📂 | **PROJECTS:** Battle-Ships Game
 
-● At the moment studying at high school
+🏁 | **GOAL:** Be a software engineer who makes radars and flights system.
