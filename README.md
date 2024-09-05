@@ -1,13 +1,9 @@
 # Junior Java Developer | VojtaCZ
 
-💻 | **TOOLS:** Intellij IDEA Ultimate, Visual Studio Code, Maven, Gradle, Vite
+💻 | **TOOLS:** Intellij IDEA Ultimate, Visual Studio Code, Maven
 
-🛠️ | **LANGUAGES:** Java, JavaScript, TypeScript
+🛠️ | **LANGUAGES:** Java. C++
 
-🛠️ | **NOT USED LANGUAGES:** Python and C
+🔨 | **FRAMEWORKS:** SpringBoot
 
-🔨 | **FRAMEWORKS:** SpringBoot and React
-
-📂 | **PROJECTS:** Battle-Ships Game
-
-🏁 | **GOAL:** Be a software engineer, who makes radars and flights system.
+🏁 | **GOAL:** Become a person, who knows how to use programming languages in real life
